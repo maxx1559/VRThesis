@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxhb\\My project (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\maxhb\\my project (1)\\assets\\scripts\\controls\\edgehandlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controls\\edgehandlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\maxhb\\My project (1)\\assets\\scripts\\controls\\controller\\grabcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controls\\controller\\grabcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\maxhb\\My project (1)\\assets\\scripts\\controls\\iinteractableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controls\\iinteractableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\maxhb\\My project (1)\\assets\\scripts\\controls\\vertexhandlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controls\\vertexhandlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\maxhb\\My project (1)\\assets\\scripts\\controls\\extrudablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controls\\extrudablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\maxhb\\My project (1)\\assets\\scripts\\controls\\facehandlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controls\\facehandlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\maxhb\\My project (1)\\assets\\scripts\\controls\\controlsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controls\\controlsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\maxhb\\My project (1)\\assets\\scripts\\controls\\controller\\indexfingercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controls\\controller\\indexfingercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\maxhb\\My project (1)\\assets\\scripts\\extrudablemesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\extrudablemesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IndexFingerControl.cs",
+              "DocumentMoniker": "C:\\Users\\maxhb\\My project (1)\\Assets\\Scripts\\Controls\\controller\\IndexFingerControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controls\\controller\\IndexFingerControl.cs",
+              "ToolTip": "C:\\Users\\maxhb\\My project (1)\\Assets\\Scripts\\Controls\\controller\\IndexFingerControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controls\\controller\\IndexFingerControl.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:16:40.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VertexHandleController.cs",
+              "DocumentMoniker": "C:\\Users\\maxhb\\My project (1)\\Assets\\Scripts\\Controls\\VertexHandleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controls\\VertexHandleController.cs",
+              "ToolTip": "C:\\Users\\maxhb\\My project (1)\\Assets\\Scripts\\Controls\\VertexHandleController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controls\\VertexHandleController.cs",
+              "ViewState": "AQIAAAkBAAAAAAAAAAAtwBkBAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:50:51.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExtrudableController.cs",
+              "DocumentMoniker": "C:\\Users\\maxhb\\My project (1)\\Assets\\Scripts\\Controls\\ExtrudableController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controls\\ExtrudableController.cs",
+              "ToolTip": "C:\\Users\\maxhb\\My project (1)\\Assets\\Scripts\\Controls\\ExtrudableController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controls\\ExtrudableController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAlwDoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:41:23.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IInteractableObject.cs",
+              "DocumentMoniker": "C:\\Users\\maxhb\\My project (1)\\Assets\\Scripts\\Controls\\IInteractableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controls\\IInteractableObject.cs",
+              "ToolTip": "C:\\Users\\maxhb\\My project (1)\\Assets\\Scripts\\Controls\\IInteractableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controls\\IInteractableObject.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:38:53.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GrabControl.cs",
+              "DocumentMoniker": "C:\\Users\\maxhb\\My project (1)\\Assets\\Scripts\\Controls\\controller\\GrabControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controls\\controller\\GrabControl.cs",
+              "ToolTip": "C:\\Users\\maxhb\\My project (1)\\Assets\\Scripts\\Controls\\controller\\GrabControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controls\\controller\\GrabControl.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:40:33.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EdgeHandleController.cs",
+              "DocumentMoniker": "C:\\Users\\maxhb\\My project (1)\\Assets\\Scripts\\Controls\\EdgeHandleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controls\\EdgeHandleController.cs",
+              "ToolTip": "C:\\Users\\maxhb\\My project (1)\\Assets\\Scripts\\Controls\\EdgeHandleController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controls\\EdgeHandleController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:34:51.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExtrudableMesh.cs",
+              "DocumentMoniker": "C:\\Users\\maxhb\\My project (1)\\Assets\\Scripts\\ExtrudableMesh.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExtrudableMesh.cs",
+              "ToolTip": "C:\\Users\\maxhb\\My project (1)\\Assets\\Scripts\\ExtrudableMesh.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExtrudableMesh.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwGgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:49:01.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FaceHandleController.cs",
+              "DocumentMoniker": "C:\\Users\\maxhb\\My project (1)\\Assets\\Scripts\\Controls\\FaceHandleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controls\\FaceHandleController.cs",
+              "ToolTip": "C:\\Users\\maxhb\\My project (1)\\Assets\\Scripts\\Controls\\FaceHandleController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controls\\FaceHandleController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowGMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:44:25.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ControlsManager.cs",
+              "DocumentMoniker": "C:\\Users\\maxhb\\My project (1)\\Assets\\Scripts\\Controls\\ControlsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controls\\ControlsManager.cs",
+              "ToolTip": "C:\\Users\\maxhb\\My project (1)\\Assets\\Scripts\\Controls\\ControlsManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controls\\ControlsManager.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAewN4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:49:14.315Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
